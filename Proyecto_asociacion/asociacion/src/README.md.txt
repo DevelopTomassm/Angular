@@ -1,0 +1,1 @@
+para ejecutar situarse en el directorio de trabajo y ejecutar npm i,este comando isntalara las dependencias del proyecto

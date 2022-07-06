@@ -1,0 +1,17 @@
+<tfg-navbar></tfg-navbar>
+<br><b><h1 class="text-center">Salir de PadelRerserv</h1></b><br>
+  <b><h6 class="text-center">¿Estas seguro de que quieres salir?</h6></b><br>
+
+
+<label>
+  <button class="btn btn-success btn-lg" style="width:1280px;height:100px;" [routerLink]="['/home']">
+    Volver
+  </button>
+  &nbsp;
+    <button class="btn btn-danger btn-lg" style="width:1280px;height:100px;" (click)="logOut()">
+        Salir
+    </button>
+
+
+</label>
+

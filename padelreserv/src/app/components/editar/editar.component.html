@@ -1,0 +1,20 @@
+<tfg-navbar></tfg-navbar>
+<body style="background-color: #ACFFDD;">
+<br><b><h1 class="text-center">Editar</h1></b><hr>
+<b><h6 class="text-center">Selecciona un nombre nuevo y una foto</h6></b><br>
+
+<form style="background-color:#ACFFDD ;" class="row" #formEditar="ngForm">
+    <label class="text-center"><b>NOMBRE</b></label>
+    <input size="20" type="text" name="cajanombre" #cajanombre placeholder="Escribe tu nuevo nombre" class="form-control border border-dark text-center">
+    &nbsp;
+    <label class="text-center"><b>FOTO DE PERFIL</b></label>
+    <input type="text" name="cajafoto" #cajafoto placeholder="direccion_url" class="form-control border border-dark text-center" pattern="[A-Za-z0-9]" >
+    &nbsp;
+
+    <button class="btn btn-success btn-lg" style="width:1350px;height:150px;" (click)="modificar()">
+        Modificar
+    </button>
+</form>
+</body>
+
+

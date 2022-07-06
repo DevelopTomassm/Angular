@@ -1,0 +1,32 @@
+<nav class="navbar navbar-expand-lg navbar-light " style="background-color: #121b69;">
+  <div class="container-fluid">
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link active" [routerLink]="['/inicio']" routerLinkActive="router-link-active"  routerLinkActive="router-link-active"    style="color: blanchedalmond;">INICIO</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" [routerLink]="['/personajes']" routerLinkActive="router-link-active"  routerLinkActive="router-link-active"  style="color: blanchedalmond;">Personajes</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link"  [routerLink]="['/episodios']" routerLinkActive="router-link-active"  routerLinkActive="router-link-active" style="color: blanchedalmond;">Episodios</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link"  [routerLink]="['/localizacion']" routerLinkActive="router-link-active"  routerLinkActive="router-link-active" style="color: blanchedalmond;">Localizacion</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"  id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false" style="color: blanchedalmond;">
+            Filtrar
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <li><a class="dropdown-item" [routerLink]="['/filtrado','robot']" routerLinkActive="router-link-active"  routerLinkActive="router-link-active">Robot</a></li>
+            <li><a class="dropdown-item" [routerLink]="['/filtrado','animal']" routerLinkActive="router-link-active"  routerLinkActive="router-link-active">Animal</a></li>
+            <li><a class="dropdown-item" [routerLink]="['/filtrado','human']" routerLinkActive="router-link-active"  routerLinkActive="router-link-active">Humano</a></li>
+          </ul>
+        </li>
+      </ul>
+
+    </div>
+  </div>
+</nav>
+<router-outlet></router-outlet>

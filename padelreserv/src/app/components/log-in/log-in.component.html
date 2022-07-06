@@ -1,0 +1,39 @@
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark" aria-label="Tenth navbar example">
+  <div class="container-fluid">
+      <img src="./../../../assets/file/Padelreserv.png" alt="" style="width: 45px; height: 50px;">
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsExample08" aria-controls="navbarsExample08" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarsExample08">
+      <ul class="navbar-nav">
+
+        <li class="nav-item" >
+          <a class="nav-link" [routerLink]="['/registro']">Registrarse</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<br><b><h1 class="text-center">Iniciar Sesión</h1></b><br>
+  <b><h6 class="text-center">Inicia sesión para poder ver el contenido de la web</h6></b><br>
+
+<form class="row" #formLogIn="ngForm">
+
+        <label class="text-center"><b>Email</b></label>
+        <input type="email" name="cajamail" #cajamail placeholder="ejemplo@gmail.com" class="form-control border border-dark text-center">
+        <br/>
+        <label class="text-center"><b>Contraseña</b></label>
+        <input type="password" name="cajapassword" #cajapassword placeholder="Introduce la contraseña" class="form-control border border-dark text-center" minlength="6" maxlength="20" pattern="[A-Za-z0-9]{6,20}">
+        &nbsp;
+        <button class="btn btn-success" style="width:1350px;height:75px;" (click)="logIn()">
+            Iniciar Sesión
+        </button>
+        &nbsp;
+        <button class="btn btn-primary" style="width:1350px;height:75px;" (click)="logInGoogle()">
+          Iniciar Sesión con Google
+        </button>
+        
+
+</form>

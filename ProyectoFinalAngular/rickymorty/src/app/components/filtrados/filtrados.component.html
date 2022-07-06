@@ -1,0 +1,18 @@
+
+<div class="m4">
+  <div class="row">
+ <div class="col" id="carta" *ngFor="let item of filtradas">
+   <div class="card" style="width: 18rem;">
+    <br><br>
+    <h1 class="card-title">{{item.specie}}</h1>
+     <br><br>
+       <img class="card-img-top" src= {{item.imagen}} width="100%" alt="Card image">
+       <div class="card-body">
+
+           <br>
+           <h3 class="card-text" >Filtrado:  {{item.specie}}</h3>
+       </div>
+     </div>
+ </div>
+</div>
+</div>

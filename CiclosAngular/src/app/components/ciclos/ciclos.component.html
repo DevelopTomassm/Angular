@@ -1,0 +1,41 @@
+<div class="row">
+  <h2>Los ciclos tecnologicos</h2>
+  <div class="col">
+    <h2>DAM</h2>
+    <p>Asignaturas</p>
+    <ul class="list-group">
+
+      <li class="list-group-item" *ngFor="let item of arrayAsignaturaDam">{{item.nombre}}</li>
+
+    </ul>
+
+  </div>
+  <div class="col">
+    <h2>DAM</h2>
+    <p>Asignaturas</p>
+    <ul class="list-group">
+      <li class="list-group-item" *ngFor="let item of arrayAsignaturaDaw">{{item.nombre}}</li>
+
+    </ul>
+
+  </div>
+</div>
+<div class="row">
+
+<div class="col" *ngFor="let item of arrayCiclos">
+
+  <div class="card" style="width: 18rem"> 
+    <div class="card-body">
+      <img [src]="item.imagen" class="card-img-top" style="width: 16rem;height: 16 rem;" />
+      <p class="card-text">
+      <br />
+        {{ item.curso }} {{ item.nombre }}
+        <br />
+      </p>
+      <a class="btn btn-primary btn-lg " role="button" [routerLink]="['/ciclodetalle']"
+      routerLinkActive="active" (click)="irCicloDetalle(item.nombre,item.curso)">Ver detalles</a> 
+    </div>
+  </div>
+</div>
+
+</div>

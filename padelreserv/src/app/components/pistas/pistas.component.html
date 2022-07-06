@@ -1,0 +1,31 @@
+<tfg-navbar></tfg-navbar>
+<body style="background-color: #C3FFE7;">
+<br><b><h1 class="text-center">Pistas</h1></b><br>
+<b><h6 class="text-center">Selecciona la pista que quieres reservar</h6></b><br><br>
+<div class="m4">
+  <div class="row p-1000 mb-1000">
+    <div class="col text-white" *ngFor="let item of pistaS">
+      <div class="card bg-black" style="width: 13rem">
+        <img src="{{item.image}}" class="card-img-top" />
+        <div class="card-body bg-success">
+          <h5 class="card-title">{{item.name}}</h5>
+          <p class="card-text">
+            Dirección: {{item.direccion}}<br>Localidad: {{item.localidad}}<br>Nº de Pistas: {{item.npistas}}
+          </p>
+          <a class="btn btn-warning" href="{{item.url}}">
+          <button class="btn btn-warning">{{item.url}}</button></a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<br>
+</body>
+<body style="background-color: #04B9A6;">
+    <div class="footer-copyright text-center py-3">© 2022 Copyright: PadelReserv
+    </div>
+  </body>
+
+
+
+

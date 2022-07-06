@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "name": "BULLPADEL VERTEX XSERIES",
+    "texto": "PALA DISEÑADA CON MATERIAL DE CARBONO, DURADERA, LIGERA Y FÁCIL DE MANEJAR PARA TENER MÁXIMA POTENCIA EN CADA GOLPE",
+    "web": "PadelNuestro",
+    "precio": "189.00",
+    "image": "https://www.padelnuestro.com/images/cargador/productos/imagen-1-29316-29f4fa30-29604-NORMAL.jpg",
+    "url": "https://www.padelnuestro.com/bullpadel-vertex-xseries-p-29604.html"
+  },
+  {
+    "id": 2,
+    "name": "BULLPADEL VERTEX 03 COMFORT 2022",
+    "texto": "DESCUBRE EL NUEVO PALÓN DE MARTIN DI NENNO, UNA PALA QUE REVOLUCIONA LAS PISTAS, CONSIGUIENDO PURA POTENCIA EN EL JUEGO.",
+    "web": "PadelNuestro",
+    "precio": "224.95",
+    "image": "https://www.padelnuestro.com/images/cargador/productos/imagen-1-26113-96b45946-27114-NORMAL.jpg",
+    "url": "https://www.padelnuestro.com/bullpadel-vertex-03-comfort-2022-p-27114.html"
+  },
+  {
+    "id": 3,
+    "name": "BULLPADEL HACK 03 2022",
+    "texto": "LA NUEVA JOYA DE PAQUITO NAVARRO CON NUEVO NÚCLEO TRICARBON Y SISTEMA ADAPTIA EXCLUSIVO EN LAS PALAS HACK DE LA LÍNEA PRO.",
+    "web": "PadelNuestro",
+    "precio": "324.95",
+    "image": "https://www.padelnuestro.com/images/cargador/productos/imagen-1-26106-4e9859f9-27095-NORMAL.jpg",
+    "url": "https://www.padelnuestro.com/bullpadel-hack-03-2022-p-27095.html"
+  },
+  {
+    "id": 4,
+    "name": "ADIDAS METALBONE MASTER LTD 2022",
+    "texto": "INTEGRADA CON MATERIALES DE CARBONO QUE LA HACEN MÁS RESISTENTE Y DURADERA PARA TUS JUEGOS MÁS POTENTES, ESTA NUEVA PALA ES IDEAL PARA LA CANCHA.",
+    "web": "PadelNuestro",
+    "precio": "380.00",
+    "image": "https://www.padelnuestro.com/images/cargador/productos/imagen-1-25657-da3cebb0-29637-NORMAL.jpg",
+    "url": "https://www.padelnuestro.com/adidas-metalbone-master-ltd-2022-p-29637.html"
+  },
+  {
+    "id": 5,
+    "name": "SIUX ELECTRA ST1",
+    "texto": "LUCE UN INCREÍBLE ESTILO CON ESTA NUEVA PALA DE PÁDEL, DISEÑADA CON MATERIALES DE CARBONO EN CARAS Y MARCO, DIRIGIDA A JUGADORES DE NIVEL AVANZADO PROFESIONAL.",
+    "web": "PadelNuestro",
+    "precio": "299.00",
+    "image": "https://www.padelnuestro.com/images/cargador/productos/imagen-1-25186-fddb0c88-29371-NORMAL.jpg",
+    "url": "https://www.padelnuestro.com/siux-electra-st1-p-29371.html"
+  },
+  {
+    "id": 6,
+    "name": "HEAD GRAPHENE 360 DELTA GOLD",
+    "texto": "PALA DE PÁDEL DISEÑADA PARA JUEGOS DE POTENCIA, OTORGÁNDOTE VENTAJA CON TUS COMPETIDORES. DISFRUTA Y RESALTA EN CADA PARTIDO.",
+    "web": "PadelNuestro",
+    "precio": "159.95",
+    "image": "https://www.padelnuestro.com/images/cargador/productos/imagen-1-25217-0dfd95c0-26287-NORMAL.jpg",
+    "url": "https://www.padelnuestro.com/head-graphene-360-delta-gold-p-26287.html"
+  },
+  {
+    "id": 7,
+    "name": "STAR VIE DRONOS GALAXY",
+    "texto": "ESTA PALA POLIVALENTE ES UN DISEÑO DE LA NUEVA COLECCIÓN STARVIE 2021 QUE LLEGA PARA LOS JUGADORES QUE DESEAN EVOLUCIONAR SU NIVEL DE JUEGO.",
+    "web": "PadelNuestro",
+    "precio": "219.90",
+    "image": "https://www.padelnuestro.com/images/cargador/productos/imagen-1-21824-cfe48bb1-23429-NORMAL.jpg",
+    "url": "https://www.padelnuestro.com/star-vie-dronos-galaxy-p-23429.html"
+  },
+  {
+    "id": 8,
+    "name": "NOX SHADOW CONTROL FIBER",
+    "texto": "DISFRUTA AL MÁXIMO CADA PARTIDO DE PADEL CON ESTA PALA DE EXCELENTES PRESTACIONES.",
+    "web": "PadelNuestro",
+    "precio": "159.95",
+    "image": "https://www.padelnuestro.com/images/cargador/productos/imagen-1-24631-3cf9ae50-25452-NORMAL.jpg",
+    "url": "https://www.padelnuestro.com/nox-shadow-control-fiber-p-25452.html"
+  },
+  {
+    "id": 9,
+    "name": "ADIDAS ADIPOWER SOFT 2.0",
+    "texto": "ANÁLISIS Y CARACTERÍSTICAS DE UNA DE LAS MEJORES PALAS DE POTENCIA DE ADIDAS PADEL.",
+    "web": "PadelNuestro",
+    "precio": "169.95",
+    "image": "https://www.padelnuestro.com/images/cargador/productos/imagen-1-19104-9cc7f5d4-19810-NORMAL.jpg",
+    "url": "https://www.padelnuestro.com/adidas-adipower-soft-20-p-19810.html"
+  },
+  {
+    "id": 10,
+    "name": "BLACK CROWN PITON",
+    "texto": "PALA DE PÁDEL QUE OFRECE UN EXCELENTE EQUILIBRIO PARA UN JUEGO COMPLETO.",
+    "web": "PadelNuestro",
+    "precio": "153.00",
+    "image": "https://www.padelnuestro.com/images/products/BLACK-CROWN-PITON-PALA.jpg",
+    "url": "https://www.padelnuestro.com/black-crown-piton-p-1675.html"
+  },
+  {
+    "id": 11,
+    "name": "HESACORE GRIP BULLPADEL",
+    "texto": "NUEVO TIPO DE GRIP INNOVADOR QUE CUBRE TODO EL MANGO DE LA PALA O RAQUETA Y TE DA UN MEJOR AGARRE Y MÁS CÓMODO.",
+    "web": "PadelNuestro",
+    "precio": "19.95",
+    "image": "https://www.padelnuestro.com/images/cargador/productos/imagen-1-15969-a3ec25f9-15221-NORMAL.jpg",
+    "url": "https://www.padelnuestro.com/hesacore-grip-bullpadel-p-15221.html"
+  },
+  {
+    "id": 12,
+    "name": "HESACORE GRIP BULLPADEL FUCSIA",
+    "texto": "YA PUEDES CONSEGUIR ESTE NUEVO GRIP QUE TE OFRECERÁ BASTANTES BENEFICIOS EN TUS PARTIDOS DE PADEL.",
+    "web": "PadelNuestro",
+    "precio": "19.95",
+    "image": "https://www.padelnuestro.com/images/cargador/productos/imagen-1-26071-ebb2b8a7-26949-NORMAL.jpg",
+    "url": "https://www.padelnuestro.com/hesacore-grip-bullpadel-fucsia-p-26949.html"
+  },
+  {
+    "id": 13,
+    "name": "OVERGRIP HEAD PRIME BLANCO",
+    "texto": "GRIP PARA TU PALA, MEJORA EL AGARRE Y LA FIRMEZA, LA COMODIDAD Y LA ELIMINACIÓN DE LA SENSACIÓN DE HUMEDAD.",
+    "web": "PadelNuestro",
+    "precio": "5.03",
+    "image": "https://www.padelnuestro.com/images/cargador/productos/imagen-1-18102-38a951ef-17907-NORMAL.jpg",
+    "url": "https://www.padelnuestro.com/overgrip-head-prime-blanco-p-17907.html"
+  },
+  {
+    "id": 14,
+    "name": "OVERGRIP HEAD 60 XTREMESOFT BLANCO",
+    "texto": "ESTE OVERGRIP ES IDEAL PARA PROTEGER TUS PALAS DE LAS ROZADURAS.",
+    "web": "PadelNuestro",
+    "precio": "87.99",
+    "image": "https://www.padelnuestro.com/images/cargador/productos/imagen-1-15969-a3ec25f9-15221-NORMAL.jpg",
+    "url": "https://www.padelnuestro.com/hesacore-grip-bullpadel-p-15221.html"
+  },
+  {
+    "id": 15,
+    "name": "BOLSA BULLPADEL BPP 22012 HACK AZUL",
+    "texto": "ESTA BOLSA BULLPADEL DESTACA POR SU DISEÑO MODERNO Y VERSÁTIL.",
+    "web": "PadelNuestro",
+    "precio": "89.95",
+    "image": "https://www.padelnuestro.com/images/cargador/productos/imagen-1-26130-244aa370-27118-NORMAL.jpg",
+    "url": "https://www.padelnuestro.com/bolsa-bullpadel-bpp-22012-hack-azul-p-27118.html"
+  },
+  {
+    "id": 16,
+    "name": "MOCHILA NOX WORLD PADEL TOUR OPEN SERIES NEGRO",
+    "texto": "MOCHILA DISEÑADA CON MATERIALES CÓMODOS, AJUSTABLES Y ACOLCHADOS PARA TRANSPORTAR CON SEGURIDAD Y MEJORES SENSACIONES TUS ACCESORIOS Y PALAS.",
+    "web": "PadelNuestro",
+    "precio": "42.95",
+    "image": "https://www.padelnuestro.com/images/cargador/productos/imagen-1-25461-09737099-27742-NORMAL.jpg",
+    "url": "https://www.padelnuestro.com/mochila-nox-world-padel-tour-open-series-negro-p-27742.html"
+  }
+]

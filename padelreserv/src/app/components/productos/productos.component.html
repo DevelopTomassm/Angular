@@ -1,0 +1,29 @@
+<tfg-navbar></tfg-navbar>
+<body style="background-color: #A2FFF5;">
+<br><b><h1 class="text-center">Productos</h1></b><br>
+<b><h6 class="text-center">Compra los productos que más te gusten</h6></b><br><br>
+<div class="m4">
+  <div class="row p-1000 mb-1000 text-black">
+    <div class="col" *ngFor="let item of productoS">
+      <div class="card bg-black" style="width: 15rem;">
+        <img src="{{item.image}}" class="card-img-top" />
+        <p></p>
+        <div class="card-body bg-info">
+          <h5 class="card-title">{{item.name}}</h5>
+          <p class="card-text">
+            <u><b>Texto:</b></u> {{item.texto}}<br> <u><b>Web:</b></u> {{item.web}}<br> <u><b>Precio:</b></u> {{item.precio}}
+          </p>
+          <a [target]="'_blank'" class="btn btn-primary" href="{{item.url}}">
+          <button class="btn btn-primary">Comprar</button></a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<br>
+</body>
+<body style="background-color: #04B9A6;">
+  <div class="footer-copyright text-center py-3">© 2022 Copyright: PadelReserv
+  </div>
+</body>
+

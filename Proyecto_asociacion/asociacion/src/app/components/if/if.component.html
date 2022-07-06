@@ -1,0 +1,14 @@
+<p>La directiva estructural if permite mostrar un HTML u otro dependiendo de una condicion</p>
+<ng-container *ngIf="mostrar; else elseTemplate">
+  <div class="alert alert-primary" role="alert">
+    ahora es true
+  </div>
+</ng-container>
+<ng-template #elseTemplate>
+  <div class="alert alert-primary" role="alert">
+   ahora es false
+  </div>
+</ng-template>
+
+<button (click)="cambiar()">Cambiar</button>
+
